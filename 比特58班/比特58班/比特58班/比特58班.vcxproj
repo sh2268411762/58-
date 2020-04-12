@@ -145,8 +145,12 @@
     <ClCompile Include="3.30.c" />
     <ClCompile Include="3.31.c" />
     <ClCompile Include="4.10.c" />
+    <ClCompile Include="4.12.c" />
     <ClCompile Include="4.3.c" />
     <ClCompile Include="4.8.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="58.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
