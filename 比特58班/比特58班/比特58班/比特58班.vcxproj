@@ -150,6 +150,7 @@
     <ClCompile Include="4.17.c" />
     <ClCompile Include="4.19.c" />
     <ClCompile Include="4.22.c" />
+    <ClCompile Include="4.24.c" />
     <ClCompile Include="4.3.c" />
     <ClCompile Include="4.8.c" />
   </ItemGroup>

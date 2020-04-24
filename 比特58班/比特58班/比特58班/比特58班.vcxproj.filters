@@ -54,6 +54,9 @@
     <ClCompile Include="4.22.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.24.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="58.h">
