@@ -1,23 +1,23 @@
 #include "58.h"
 
 
-int main()
-{//sizeof不是函数
-	int a = 10;
-	//int arr[10];
-	char arr[10];
-	printf("%d\n", sizeof(a));
-	printf("%d\n", sizeof a );
-	printf("%d\n", sizeof(10));
-	printf("%d\n", sizeof 10);
-	printf("%d\n", sizeof(int));
-
-	puts("");
-	printf("%d\n", sizeof(arr));
-	printf("%d\n", sizeof(arr + 1));//4
-	printf("%d\n", sizeof(arr[1]));
-	return 0;
-}
+//int main()
+//{//sizeof不是函数
+//	int a = 10;
+//	//int arr[10];
+//	char arr[10];
+//	printf("%d\n", sizeof(a));
+//	printf("%d\n", sizeof a );
+//	printf("%d\n", sizeof(10));
+//	printf("%d\n", sizeof 10);
+//	printf("%d\n", sizeof(int));
+//
+//	puts("");
+//	printf("%d\n", sizeof(arr));
+//	printf("%d\n", sizeof(arr + 1));//4
+//	printf("%d\n", sizeof(arr[1]));
+//	return 0;
+//}
 
 
 //int main()
