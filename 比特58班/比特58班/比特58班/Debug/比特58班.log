@@ -1,2 +1,4 @@
-﻿  4.26.c
+﻿  4.29.c
+C:\Users\lenovo\source\repos\比特58班\比特58班\4.29.c(54,8): warning C4047: “=”:“int *”与“int”的间接级别不同
+C:\Users\lenovo\source\repos\比特58班\比特58班\4.29.c(57,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
   比特58班.vcxproj -> C:\Users\lenovo\source\repos\比特58班\Debug\比特58班.exe

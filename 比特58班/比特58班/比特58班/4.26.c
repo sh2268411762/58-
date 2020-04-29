@@ -21,10 +21,10 @@
 //	puts("");
 //
 //
-//	//char c1 = 1;
-//	//printf("%u\n", sizeof(c1));
-//	//printf("%u\n", sizeof(+c1));
-//	//printf("%u\n", sizeof(!c1));
+//	char c1 = 1;
+//	printf("%u\n", sizeof(c1));
+//	printf("%u\n", sizeof(+c1));
+//	printf("%u\n", sizeof(!c1));//4
 //	return 0;
 //}
 
