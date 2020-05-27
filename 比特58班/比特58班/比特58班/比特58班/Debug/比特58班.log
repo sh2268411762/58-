@@ -1,0 +1,3 @@
+﻿  5.27.c
+C:\Users\lenovo\source\repos\比特58班\比特58班\5.27.c(42,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  比特58班.vcxproj -> C:\Users\lenovo\source\repos\比特58班\Debug\比特58班.exe
