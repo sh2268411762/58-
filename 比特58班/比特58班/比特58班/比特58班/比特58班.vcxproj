@@ -164,6 +164,8 @@
     <ClCompile Include="5.29.c" />
     <ClCompile Include="5.31.c" />
     <ClCompile Include="5.8.c" />
+    <ClCompile Include="6.3.c" />
+    <ClCompile Include="6.5 .c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="58.h" />
