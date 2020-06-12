@@ -2,6 +2,8 @@
 ////
 //
 //
+//#include <stdio.h>
+//#include <stdlib.h>
 //
 //int Comp(int* x, int* y)
 //{
