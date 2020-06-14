@@ -187,7 +187,7 @@
 //
 //	if (dst_p > src_p && dst_p < num + src_p)
 //	{
-//		src_p = src_p + num - 1;//指向最后一个有效为止
+//		src_p = src_p + num - 1;//指向最后一个有效位置
 //		dst_p = dst_p + num - 1;
 //		while (num > 0)
 //		{
@@ -215,10 +215,11 @@
 //	char str[32] = "oiisijijduv";
 //	char dst[32];
 //	size_t len = strlen(str) + 1;
-//	My_memmove(dst, str, len);
-//	My_memmove(str, str + 3, len);
+//	//My_memmove(dst, str, len);
+//	//My_memmove(str, str + 3, len);
 //
 //	My_memmove(str + 3, str, len);//错误
+//	puts(str);
 //	return EXIT_SUCCESS;
 //}
 
