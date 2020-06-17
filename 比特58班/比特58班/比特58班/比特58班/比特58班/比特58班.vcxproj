@@ -165,6 +165,9 @@
     <ClCompile Include="5.31.c" />
     <ClCompile Include="5.8.c" />
     <ClCompile Include="6.10.c" />
+    <ClCompile Include="6.12.c" />
+    <ClCompile Include="6.14.c" />
+    <ClCompile Include="6.17.c" />
     <ClCompile Include="6.3.c" />
     <ClCompile Include="6.5 .c" />
     <ClCompile Include="6.7.c" />
