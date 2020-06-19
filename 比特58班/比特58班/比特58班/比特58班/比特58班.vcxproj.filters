@@ -108,6 +108,12 @@
     <ClCompile Include="6.14.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.17.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="58.h">
