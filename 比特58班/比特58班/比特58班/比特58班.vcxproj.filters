@@ -81,10 +81,60 @@
     <ClCompile Include="5.24.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.27.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.31.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5 .c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.14.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.17.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.21.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.24.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.28.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="58.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="D:\test.txt">
+      <Filter>源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
