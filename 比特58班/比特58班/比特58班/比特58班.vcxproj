@@ -176,6 +176,7 @@
     <ClCompile Include="6.5 .c" />
     <ClCompile Include="6.7.c" />
     <ClCompile Include="7.10.c" />
+    <ClCompile Include="7.5.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="58.h" />
